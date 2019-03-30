@@ -24,7 +24,7 @@ public class Auto116
    public WebDriver driver;
    public WebDriverWait w;
    public Homepage hp;
-   public Sendsmspage sp
+   public Sendsmspage sp;
    
    @Test(priority=1)
    public void launch()
