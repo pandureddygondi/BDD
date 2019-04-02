@@ -1,0 +1,6 @@
+9492375037,valid,pandu143,valid
+,invalid,pandu143,valid
+9492,invalid,pandu143,valid
+9492580532,invalid,pandu143,valid
+9492375037,valid,,invalid
+9492375037,valid,pandu103,invalid

@@ -1,0 +1,6 @@
+login test passed
+blank mbno test passed
+wrong size mbno test passed
+invalid mbno test passed
+blank pwd test passed
+invalid pwd test passed
